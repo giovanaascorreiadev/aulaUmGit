@@ -1,22 +1,18 @@
 Algoritmo da prova do enem
-1- Se incresver e pagar a inscrição
-2- Conferir o dia e o local da prova
-3- Separar documento e canetas pretas com antecedência
-
-Ir até o local da prova
-
-Chegar cedo
-
-Entrar na sala
-
-Receber a prova
-
-Ler as instruções
-
-Fazer as questões
-
-Fazer a redação
-
-Conferir as respostas
-
-Entregar a prova
+ 1- Se incresver e pagar a inscrição
+ 2- Conferir o dia e o local da prova
+ 3- Separar documento e canetas pretas com antecedência
+ 4- Ir até o local da prova na data 
+ 5- Chegar cedo
+ 6- Entrar na sala
+ 7- Receber a prova
+ 8- Ler as instruções
+ 9- Ler os textos
+ 10- Fazer as questões com atenção
+ 11- Comer os lanches levados
+ 12- Ler os textos motivadores
+ 13- Fazer a redação
+ 14- Conferir as respostas
+ 15- Passar as respostas no gabarito
+ 16- Entregar a prova
+ 17- Ir embora do local
