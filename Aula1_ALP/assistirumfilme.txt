@@ -1,0 +1,13 @@
+Algoritmo sobre assistir um filme
+
+1- Pegar o controle da TV
+2- Ligar a TV
+3- Escolher o filme
+4- Abrir o aplicativo 
+5- Procurar o filme
+6- Dar play no filme
+7- Assistir ao filme
+8- Pausar se precisar
+9- Continuar o filme
+10-Terminar de assistir
+11-Desligar a TV
