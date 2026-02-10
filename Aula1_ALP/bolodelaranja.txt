@@ -1,5 +1,37 @@
 Algoritmo sobre bolo de laranja
 
-1-Separe todos os ingredientes que será preciso
-2- Selecione quais serão os recipientes e  eletrodomésticos que irão usar
-3-
+1-  Analise a receita e veja se você tem todos os elementos precisos 
+2-  Separe todos os ingredientes que estão sendo pedidos na recita
+3-  Selecione quais serão os recipientes e  eletrodomésticos que irão usar
+4-  Abra o liquidificador e ligue na tomada
+5-  Quebre 4 ovos e os despeje em um recipiente
+6-  Adicione os ovos no copo do liquidificador
+7-  Pegue duas xícaras de chá aleatórias
+8-  Coloque açúcar até o topo da primeira xícara de chá e repita o processo mais uma vez na segunda xícara
+9-  Adicione ao liquidificador o açúcar
+10- Encha uma xícara de chá com óleo
+11- Despeje o óleo no liquidificador
+12- Pegue um copo grande
+13- Esprema duas laranjas no copo grande
+14- Despeje o suco das laranjas no liquidificador
+15- Não jogue a casca das laranjas fora
+16- Coloque pedaços médios da casca da laranja no liquidificador
+17- Feche o liquidificador, aperte o botão para ligar e coloque na potência 3.
+18- Olhe a massa para ver se está tudo certo e se não está com pedaços na massa
+19- Despeje a massa em uma tigela
+20- Nas mesmas xícaras de chá citadas, adicione farinha de trigo até o topo das duas
+21- Coloque uma de cada vez na tigela com a massa e mexa com uma colher
+22- Adicione na mesma tigela, uma colher de sopa de fermento na massa
+23- Mexa a massa até que esteja sem coisas acumuladas
+24- Pegue a forma de bolo com furo central
+25- Unte a forma com manteiga e farinha de trigo
+26- Despeje a massa na forma
+27- Ligue o forno, a 180°C 
+28- Coloque o bolo para assar dentro do forno
+29- Conte 30 minutos no cronômetro, indo sempre verificar se está tudo bem com o bolo
+30- Após dar o tempo, retire o bolo do forno
+31- Corte um pedaço 
+32- Pegue um prato de sobremesa
+33- Retire o pedaço da forma e coloque no prato
+34- Pegue um garfo qualquer
+35- Coma o bolo
