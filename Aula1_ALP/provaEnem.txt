@@ -1,0 +1,22 @@
+Algoritmo da prova do enem
+1- Se incresver e pagar a inscrição
+2- Conferir o dia e o local da prova
+3- Separar documento e canetas pretas com antecedência
+
+Ir até o local da prova
+
+Chegar cedo
+
+Entrar na sala
+
+Receber a prova
+
+Ler as instruções
+
+Fazer as questões
+
+Fazer a redação
+
+Conferir as respostas
+
+Entregar a prova
