@@ -1,0 +1,25 @@
+Algoritmo sobre lavar a louça
+
+1-  Reunir toda a louça suja na pia
+2-  Retirar restos de comida dos pratos
+3-  Jogar as comidas no lixo
+4-  Abrir a torneira
+5-  Pegar a esponja
+6-  Molhar a esponja
+7-  Fechar a torneira
+8-  Colocar detergente na esponja
+9-  Ensaboar os copos
+10- Abrir a torneira
+11- Enxaguar os copos
+12- Molhar a esponja novamente
+13- Fechar a torneira
+14- Ensaboar os talheres
+15- Ensaboar pratos e panelas
+16- Abrir a torneira
+17- Enxaguar os talheres
+18- Enxaguar pratos e panelas
+19- Colocar a louça limpa para escorrer ou secar
+20- Fechar a torneira
+21- Tirar o excesso de água de cima da pia
+22- Passar um pano seco na pia
+23- Secar a mão
