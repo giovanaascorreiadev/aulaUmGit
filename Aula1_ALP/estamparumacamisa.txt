@@ -1,0 +1,16 @@
+Algoritmo sobre estampar uma camisa
+
+1- Escolher a camisa
+2- Pegar a camisa
+3- Escolher a estampa
+4- Escolher as cores
+5- Separar os materiais que serão precisados
+6- Colocar a camisa em uma superfície boa para a atividade
+7- Posicionar a estampa na camisa
+8- Passar a estampa
+9- Esperar esfriar e secar
+10-conferir se a estampa ficou boa
+11- Embalar a camisa
+12- Guardar a camisa
+13- Limpar os elementos usados no processo
+
